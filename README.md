@@ -1,4 +1,6 @@
-# Golang - self learning platform for gopher 
+# .......Golang - learn in 30 days ..........
+# ............coming soon....................
+
 -Getting Start with Golang <br>
     -[1.Hello world!](https://play.golang.org/p/lLJK7euS0R6)<br>
  - numeral systems <br>
