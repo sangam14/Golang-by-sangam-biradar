@@ -2,7 +2,7 @@
 # ............coming soon....................
 
 -Getting Start with Golang <br>
-    -[1.Hello world!](https://play.golang.org/p/lLJK7euS0R6)<br>
+         -[1.Hello world!](https://play.golang.org/p/lLJK7euS0R6)<br>
  - numeral systems <br>
          -[1.Decimal](https://play.golang.org/p/2yuamYe-4mD)<br>
          -[2.binary](https://play.golang.org/p/tCTXTZ-b1g0)<br>
@@ -17,5 +17,8 @@
          -[2.ShortThand - 2](https://play.golang.org/p/y5G1JaTxlKh)<br>
          -[3.exercise_your name](https://play.golang.org/p/GZ8DCGBrtmi)<br>
          -[3.exercise_your name - another way](https://play.golang.org/p/Xi6c8b9NOhW)<br>
+         -[4.varzerovalue](https://play.golang.org/p/d6p_94WIot0)<br>
+         -[5.less-emphasis - 1. Declare_variable ](https://play.golang.org/p/oOdXa-z-U-c)<br>
+         -[6.less-emphasis - 2. Declare-many-at-once ](https://play.golang.org/p/xyr2LOO-CuI)<br>
 # Contributor - Sangam Biradar <br>
    [sangam14.github.io](sangam14.github.io)
